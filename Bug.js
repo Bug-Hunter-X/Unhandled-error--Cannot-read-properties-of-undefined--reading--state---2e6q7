@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of a component's state before the component has mounted. This usually happens when you try to access `this.state` within the `constructor` or before the component's initial rendering.
