@@ -1,0 +1,1 @@
+In the corrected version, we move the state-dependent logic to `componentDidMount`.  This ensures the component's state is fully initialized before accessing it.
